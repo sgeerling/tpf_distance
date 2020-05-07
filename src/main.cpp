@@ -22,7 +22,7 @@
 #include "SD_MMC.h" // SD Card ESP32
 #include "SPI.h"
 #include "soc/soc.h"          // Disable brownour problems
-#include "soc/rtc_cntl_reg.h" // Disable brownour problems
+#include "soc/rtc_cntl_reg.h" // Disable brownour problemssdsad
 #include "driver/rtc_io.h"
 #include <EEPROM.h> // read and write from flash memory
 
